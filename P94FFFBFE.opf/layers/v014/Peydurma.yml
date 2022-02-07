@@ -4,8 +4,9 @@ revision: '00001'
 annotations:
   b85dbf7a30614825a13a44a5429d492d:
     span:
-      start: 2364
-      end: 2364
+      start: 2365
+      end: 2365
+      fail_update: both
   017e1d81dbdb42c4afeabab0e654c9f2:
     span:
       start: 2382
