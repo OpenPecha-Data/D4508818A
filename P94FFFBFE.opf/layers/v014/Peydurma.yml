@@ -14,8 +14,9 @@ annotations:
       fail_update: both
   e0d534ac123941429a87c071e9d04e98:
     span:
-      start: 2414
-      end: 2414
+      start: 2415
+      end: 2415
+      fail_update: both
 local_ids:
   b85dbf7a30614825a13a44a5429d492d: 200000
   017e1d81dbdb42c4afeabab0e654c9f2: 200001
